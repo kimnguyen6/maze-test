@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{A21DA567-4D02-FAFA-3719-CDAEF370184D}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/HighQualityBricks&amp;Walls/Shaders/wall-846013.shader">
+    <Files>
+      <File FileName="Assets/HighQualityBricks&amp;Walls/Shaders/brick-807728.shader" Line="1" Column="1" />
+      <File FileName="Assets/HighQualityBricks&amp;Walls/Shaders/wall-846013.shader" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
